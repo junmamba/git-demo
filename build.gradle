@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'org.example'
+group 'com.junmamba'
 version '0.0.1'
 
 repositories {
